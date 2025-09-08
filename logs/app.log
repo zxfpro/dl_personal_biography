@@ -1,0 +1,621 @@
+2025-09-03 14:33:20,611 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-09-03 14:34:02,725 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-09-03 14:39:15,297 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-09-03 14:42:17,052 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-09-03 14:42:17,054 - INFO - root - client:38 - request running
+2025-09-03 14:42:17,054 - INFO - root - client:38 - request running
+2025-09-03 14:42:17,055 - INFO - root - client:38 - request running
+2025-09-03 14:42:17,055 - INFO - root - client:38 - request running
+2025-09-03 14:42:17,055 - INFO - root - client:38 - request running
+2025-09-03 14:42:17,056 - INFO - root - client:38 - request running
+2025-09-03 14:42:17,056 - INFO - root - client:38 - request running
+2025-09-03 14:42:17,057 - INFO - root - client:38 - request running
+2025-09-03 14:42:17,057 - INFO - root - client:38 - request running
+2025-09-03 14:42:17,057 - INFO - root - client:38 - request running
+2025-09-03 14:42:17,058 - INFO - root - client:38 - request running
+2025-09-03 14:42:17,058 - INFO - root - client:38 - request running
+2025-09-03 14:42:17,070 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:17,070 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:17,070 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:17,071 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:17,071 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:17,071 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:17,071 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:17,071 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:17,071 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:17,071 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:17,071 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:17,071 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:50,835 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:42:50,839 - DEBUG - root - client:42 - 33.78305411338806
+2025-09-03 14:42:50,842 - INFO - root - client:38 - request running
+2025-09-03 14:42:50,844 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:51,166 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:42:51,167 - DEBUG - root - client:42 - 34.11022686958313
+2025-09-03 14:42:51,169 - INFO - root - client:38 - request running
+2025-09-03 14:42:51,171 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:42:51,495 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:42:51,496 - DEBUG - root - client:42 - 34.432697772979736
+2025-09-03 14:42:51,499 - INFO - root - client:38 - request running
+2025-09-03 14:42:51,502 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:43:04,081 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:43:04,082 - DEBUG - root - client:42 - 47.024272203445435
+2025-09-03 14:43:04,086 - INFO - root - client:38 - request running
+2025-09-03 14:43:04,088 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:43:11,663 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:43:11,663 - DEBUG - root - client:42 - 54.605610847473145
+2025-09-03 14:43:11,692 - INFO - root - client:38 - request running
+2025-09-03 14:43:11,734 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:43:22,278 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:43:22,279 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:43:22,279 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:43:22,279 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:43:22,279 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:43:22,279 - INFO - root - client:38 - request running
+2025-09-03 14:43:22,279 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:43:22,280 - INFO - root - client:38 - request running
+2025-09-03 14:43:22,280 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:43:22,280 - INFO - root - client:38 - request running
+2025-09-03 14:43:22,280 - INFO - root - client:38 - request running
+2025-09-03 14:43:22,283 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:43:22,281 - INFO - root - client:38 - request running
+2025-09-03 14:43:22,281 - INFO - root - client:38 - request running
+2025-09-03 14:43:22,283 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:43:22,283 - INFO - root - client:38 - request running
+2025-09-03 14:43:22,285 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:43:22,296 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:43:22,297 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:43:22,297 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:43:22,298 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:43:56,001 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:43:56,001 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:43:56,001 - INFO - root - client:38 - request running
+2025-09-03 14:43:56,001 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:43:56,001 - INFO - root - client:38 - request running
+2025-09-03 14:43:56,003 - INFO - root - client:38 - request running
+2025-09-03 14:43:56,004 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:43:56,005 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:43:56,005 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:44:09,246 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:44:09,247 - INFO - root - client:38 - request running
+2025-09-03 14:44:09,249 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:44:16,941 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:44:16,942 - INFO - root - client:38 - request running
+2025-09-03 14:44:16,946 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:44:27,595 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:44:27,596 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:44:27,597 - INFO - root - client:38 - request running
+2025-09-03 14:44:27,597 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:44:27,597 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:44:27,597 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:44:27,597 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:44:27,597 - INFO - root - client:38 - request running
+2025-09-03 14:44:27,598 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:44:27,600 - INFO - root - client:38 - request running
+2025-09-03 14:44:27,600 - INFO - root - client:38 - request running
+2025-09-03 14:44:27,600 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:44:27,600 - INFO - root - client:38 - request running
+2025-09-03 14:44:27,600 - INFO - root - client:38 - request running
+2025-09-03 14:44:27,601 - INFO - root - client:38 - request running
+2025-09-03 14:44:27,604 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:44:27,604 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:44:27,605 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:44:27,606 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:44:27,607 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:44:27,607 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:45:01,179 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:45:01,180 - INFO - root - client:38 - request running
+2025-09-03 14:45:01,179 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:45:01,182 - INFO - root - client:38 - request running
+2025-09-03 14:45:01,184 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:45:01,185 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:45:01,191 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:45:01,191 - INFO - root - client:38 - request running
+2025-09-03 14:45:01,193 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:45:14,435 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:45:14,435 - INFO - root - client:38 - request running
+2025-09-03 14:45:14,438 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:45:22,144 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:45:22,147 - INFO - root - client:38 - request running
+2025-09-03 14:45:22,149 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:45:32,755 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:45:32,756 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:45:32,758 - INFO - root - client:38 - request running
+2025-09-03 14:45:32,759 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:45:32,760 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:45:32,760 - INFO - root - client:38 - request running
+2025-09-03 14:45:32,760 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:45:32,761 - INFO - root - client:38 - request running
+2025-09-03 14:45:32,762 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:45:32,762 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:45:32,764 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:45:32,765 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:45:32,765 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:46:06,351 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:46:06,361 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:46:06,363 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:46:19,667 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:46:27,320 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:46:37,970 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:46:37,971 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:46:37,971 - ERROR - root - client:45 - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-03 14:50:06,885 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-09-03 14:50:06,887 - INFO - root - client:38 - request running
+2025-09-03 14:50:06,888 - INFO - root - client:38 - request running
+2025-09-03 14:50:06,888 - INFO - root - client:38 - request running
+2025-09-03 14:50:06,888 - INFO - root - client:38 - request running
+2025-09-03 14:50:06,889 - INFO - root - client:38 - request running
+2025-09-03 14:50:06,889 - INFO - root - client:38 - request running
+2025-09-03 14:50:06,890 - INFO - root - client:38 - request running
+2025-09-03 14:50:06,890 - INFO - root - client:38 - request running
+2025-09-03 14:50:06,890 - INFO - root - client:38 - request running
+2025-09-03 14:50:06,891 - INFO - root - client:38 - request running
+2025-09-03 14:50:06,892 - INFO - root - client:38 - request running
+2025-09-03 14:50:06,893 - INFO - root - client:38 - request running
+2025-09-03 14:50:06,900 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:06,901 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:06,901 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:06,901 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:06,902 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:06,902 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:06,902 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:06,903 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:06,904 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:06,904 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:06,905 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:06,905 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:43,480 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:50:43,483 - DEBUG - root - client:42 - 36.57886481285095
+2025-09-03 14:50:43,485 - INFO - root - client:38 - request running
+2025-09-03 14:50:43,487 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:44,123 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:50:44,123 - DEBUG - root - client:42 - 37.220202922821045
+2025-09-03 14:50:44,124 - INFO - root - client:38 - request running
+2025-09-03 14:50:44,126 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:44,332 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:50:44,332 - DEBUG - root - client:42 - 37.43378496170044
+2025-09-03 14:50:44,334 - INFO - root - client:38 - request running
+2025-09-03 14:50:44,335 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:46,163 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:50:46,163 - DEBUG - root - client:42 - 39.26163077354431
+2025-09-03 14:50:46,164 - INFO - root - client:38 - request running
+2025-09-03 14:50:46,165 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:50:46,166 - DEBUG - root - client:42 - 39.27269411087036
+2025-09-03 14:50:46,167 - INFO - root - client:38 - request running
+2025-09-03 14:50:46,167 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:46,169 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:46,169 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:50:46,170 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:50:46,170 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:50:46,170 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:50:46,170 - DEBUG - root - client:42 - 39.28125023841858
+2025-09-03 14:50:46,170 - DEBUG - root - client:42 - 39.28050923347473
+2025-09-03 14:50:46,171 - DEBUG - root - client:42 - 39.26822304725647
+2025-09-03 14:50:46,171 - DEBUG - root - client:42 - 39.28210425376892
+2025-09-03 14:50:46,173 - INFO - root - client:38 - request running
+2025-09-03 14:50:46,175 - INFO - root - client:38 - request running
+2025-09-03 14:50:46,176 - INFO - root - client:38 - request running
+2025-09-03 14:50:46,179 - INFO - root - client:38 - request running
+2025-09-03 14:50:46,182 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:46,183 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:46,183 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:46,183 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:48,627 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:50:48,628 - DEBUG - root - client:42 - 41.73948001861572
+2025-09-03 14:50:48,631 - INFO - root - client:38 - request running
+2025-09-03 14:50:48,633 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:48,672 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:50:48,672 - DEBUG - root - client:42 - 41.78257203102112
+2025-09-03 14:50:48,673 - INFO - root - client:38 - request running
+2025-09-03 14:50:48,675 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:50:57,110 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:50:57,113 - DEBUG - root - client:42 - 50.21823501586914
+2025-09-03 14:50:57,115 - INFO - root - client:38 - request running
+2025-09-03 14:50:57,117 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:23,314 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:23,315 - DEBUG - root - client:42 - 37.13489580154419
+2025-09-03 14:51:23,317 - INFO - root - client:38 - request running
+2025-09-03 14:51:23,319 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:24,209 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:24,210 - DEBUG - root - client:42 - 38.030606746673584
+2025-09-03 14:51:24,214 - INFO - root - client:38 - request running
+2025-09-03 14:51:24,216 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:25,603 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:25,605 - DEBUG - root - client:42 - 41.2704119682312
+2025-09-03 14:51:25,608 - INFO - root - client:38 - request running
+2025-09-03 14:51:25,609 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:28,513 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:28,513 - DEBUG - root - client:42 - 42.349066972732544
+2025-09-03 14:51:28,515 - INFO - root - client:38 - request running
+2025-09-03 14:51:28,516 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:28,516 - DEBUG - root - client:42 - 42.33487105369568
+2025-09-03 14:51:28,518 - INFO - root - client:38 - request running
+2025-09-03 14:51:28,519 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:28,520 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:28,604 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:28,605 - DEBUG - root - client:42 - 39.93093204498291
+2025-09-03 14:51:28,606 - INFO - root - client:38 - request running
+2025-09-03 14:51:28,607 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:28,610 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:28,610 - DEBUG - root - client:42 - 45.1244740486145
+2025-09-03 14:51:28,613 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:28,613 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:28,613 - DEBUG - root - client:42 - 42.44593405723572
+2025-09-03 14:51:28,613 - INFO - root - client:38 - request running
+2025-09-03 14:51:28,614 - DEBUG - root - client:42 - 42.434616804122925
+2025-09-03 14:51:28,616 - INFO - root - client:38 - request running
+2025-09-03 14:51:28,618 - INFO - root - client:38 - request running
+2025-09-03 14:51:28,620 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:28,620 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:28,621 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:28,641 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:28,641 - DEBUG - root - client:42 - 40.00934195518494
+2025-09-03 14:51:28,642 - INFO - root - client:38 - request running
+2025-09-03 14:51:28,643 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:32,928 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:32,930 - DEBUG - root - client:42 - 48.80533790588379
+2025-09-03 14:51:32,933 - INFO - root - client:38 - request running
+2025-09-03 14:51:32,936 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:41,572 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:41,573 - DEBUG - root - client:42 - 15.964797019958496
+2025-09-03 14:51:41,575 - INFO - root - client:38 - request running
+2025-09-03 14:51:41,577 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:44,132 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:44,133 - DEBUG - root - client:42 - 19.91896414756775
+2025-09-03 14:51:44,137 - INFO - root - client:38 - request running
+2025-09-03 14:51:44,138 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:44,701 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:44,702 - DEBUG - root - client:42 - 11.767831802368164
+2025-09-03 14:51:44,703 - INFO - root - client:38 - request running
+2025-09-03 14:51:44,705 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:46,169 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:46,170 - DEBUG - root - client:42 - 17.563891887664795
+2025-09-03 14:51:46,172 - INFO - root - client:38 - request running
+2025-09-03 14:51:46,174 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:46,831 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:46,832 - DEBUG - root - client:42 - 18.21332287788391
+2025-09-03 14:51:46,834 - INFO - root - client:38 - request running
+2025-09-03 14:51:46,836 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:49,736 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:49,738 - DEBUG - root - client:42 - 21.095773935317993
+2025-09-03 14:51:49,740 - INFO - root - client:38 - request running
+2025-09-03 14:51:49,741 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:49,793 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:49,794 - DEBUG - root - client:42 - 21.17736005783081
+2025-09-03 14:51:49,798 - INFO - root - client:38 - request running
+2025-09-03 14:51:49,799 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:50,988 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:50,989 - DEBUG - root - client:42 - 53.873430013656616
+2025-09-03 14:51:50,990 - INFO - root - client:38 - request running
+2025-09-03 14:51:50,992 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:51,687 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:51,689 - DEBUG - root - client:42 - 23.1701340675354
+2025-09-03 14:51:51,692 - INFO - root - client:38 - request running
+2025-09-03 14:51:51,694 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:54,261 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:54,261 - DEBUG - root - client:42 - 25.645139932632446
+2025-09-03 14:51:54,262 - INFO - root - client:38 - request running
+2025-09-03 14:51:54,263 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:54,422 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:54,422 - DEBUG - root - client:42 - 31.104689836502075
+2025-09-03 14:51:54,424 - INFO - root - client:38 - request running
+2025-09-03 14:51:54,425 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:56,766 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:56,766 - DEBUG - root - client:42 - 28.250903129577637
+2025-09-03 14:51:56,768 - INFO - root - client:38 - request running
+2025-09-03 14:51:56,770 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:51:59,646 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:51:59,648 - DEBUG - root - client:42 - 18.072287797927856
+2025-09-03 14:51:59,651 - INFO - root - client:38 - request running
+2025-09-03 14:51:59,653 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:00,253 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:00,254 - DEBUG - root - client:42 - 14.081477880477905
+2025-09-03 14:52:00,255 - INFO - root - client:38 - request running
+2025-09-03 14:52:00,256 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:00,692 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:00,693 - DEBUG - root - client:42 - 13.858089923858643
+2025-09-03 14:52:00,694 - INFO - root - client:38 - request running
+2025-09-03 14:52:00,695 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:01,667 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:01,668 - DEBUG - root - client:42 - 16.96451210975647
+2025-09-03 14:52:01,672 - INFO - root - client:38 - request running
+2025-09-03 14:52:01,674 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:02,113 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:02,115 - DEBUG - root - client:42 - 12.316601037979126
+2025-09-03 14:52:02,117 - INFO - root - client:38 - request running
+2025-09-03 14:52:02,119 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:02,418 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:02,419 - DEBUG - root - client:42 - 10.726587772369385
+2025-09-03 14:52:02,423 - INFO - root - client:38 - request running
+2025-09-03 14:52:02,425 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:02,908 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:02,909 - DEBUG - root - client:42 - 11.91845703125
+2025-09-03 14:52:02,912 - INFO - root - client:38 - request running
+2025-09-03 14:52:02,914 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:03,142 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:03,144 - DEBUG - root - client:42 - 19.00706195831299
+2025-09-03 14:52:03,149 - INFO - root - client:38 - request running
+2025-09-03 14:52:03,151 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:03,304 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:03,304 - DEBUG - root - client:42 - 13.564357995986938
+2025-09-03 14:52:03,306 - INFO - root - client:38 - request running
+2025-09-03 14:52:03,307 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:07,890 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:07,891 - DEBUG - root - client:42 - 13.62837290763855
+2025-09-03 14:52:07,893 - INFO - root - client:38 - request running
+2025-09-03 14:52:07,894 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:07,974 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:07,974 - DEBUG - root - client:42 - 11.205574035644531
+2025-09-03 14:52:07,975 - INFO - root - client:38 - request running
+2025-09-03 14:52:07,977 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:11,400 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:11,401 - DEBUG - root - client:42 - 16.97664499282837
+2025-09-03 14:52:11,402 - INFO - root - client:38 - request running
+2025-09-03 14:52:11,403 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:13,207 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:13,209 - DEBUG - root - client:42 - 12.514365196228027
+2025-09-03 14:52:13,211 - INFO - root - client:38 - request running
+2025-09-03 14:52:13,213 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:13,387 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:13,388 - DEBUG - root - client:42 - 10.96447205543518
+2025-09-03 14:52:13,391 - INFO - root - client:38 - request running
+2025-09-03 14:52:13,392 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:13,768 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:13,770 - DEBUG - root - client:42 - 13.51488733291626
+2025-09-03 14:52:13,772 - INFO - root - client:38 - request running
+2025-09-03 14:52:13,774 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:14,135 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:14,136 - DEBUG - root - client:42 - 12.019116163253784
+2025-09-03 14:52:14,140 - INFO - root - client:38 - request running
+2025-09-03 14:52:14,142 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:14,303 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:14,305 - DEBUG - root - client:42 - 10.998986959457397
+2025-09-03 14:52:14,308 - INFO - root - client:38 - request running
+2025-09-03 14:52:14,310 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:14,895 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:14,896 - DEBUG - root - client:42 - 11.746363162994385
+2025-09-03 14:52:14,897 - INFO - root - client:38 - request running
+2025-09-03 14:52:14,898 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:15,089 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:15,091 - DEBUG - root - client:42 - 13.418410062789917
+2025-09-03 14:52:15,093 - INFO - root - client:38 - request running
+2025-09-03 14:52:15,095 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:15,927 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:15,929 - DEBUG - root - client:42 - 16.277074098587036
+2025-09-03 14:52:15,932 - INFO - root - client:38 - request running
+2025-09-03 14:52:15,934 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:15,967 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:15,967 - DEBUG - root - client:42 - 13.054162740707397
+2025-09-03 14:52:15,968 - INFO - root - client:38 - request running
+2025-09-03 14:52:15,969 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:20,850 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:20,852 - DEBUG - root - client:42 - 12.877015829086304
+2025-09-03 14:52:20,855 - INFO - root - client:38 - request running
+2025-09-03 14:52:20,857 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:22,886 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:22,888 - DEBUG - root - client:42 - 11.485368967056274
+2025-09-03 14:52:22,891 - INFO - root - client:38 - request running
+2025-09-03 14:52:22,893 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:23,555 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:23,556 - DEBUG - root - client:42 - 15.663386106491089
+2025-09-03 14:52:23,560 - INFO - root - client:38 - request running
+2025-09-03 14:52:23,562 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:26,944 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:26,946 - DEBUG - root - client:42 - 12.805315017700195
+2025-09-03 14:52:26,950 - INFO - root - client:38 - request running
+2025-09-03 14:52:26,952 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:27,451 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:27,452 - DEBUG - root - client:42 - 12.357983112335205
+2025-09-03 14:52:27,456 - INFO - root - client:38 - request running
+2025-09-03 14:52:27,457 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:27,747 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:27,747 - DEBUG - root - client:42 - 11.814253807067871
+2025-09-03 14:52:27,749 - INFO - root - client:38 - request running
+2025-09-03 14:52:27,750 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:27,820 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:27,821 - DEBUG - root - client:42 - 12.923372030258179
+2025-09-03 14:52:27,822 - INFO - root - client:38 - request running
+2025-09-03 14:52:27,823 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:27,878 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:27,878 - DEBUG - root - client:42 - 11.909732103347778
+2025-09-03 14:52:27,879 - INFO - root - client:38 - request running
+2025-09-03 14:52:27,881 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:28,006 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:28,008 - DEBUG - root - client:42 - 13.69932222366333
+2025-09-03 14:52:28,012 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:28,013 - DEBUG - root - client:42 - 14.80105185508728
+2025-09-03 14:52:28,012 - INFO - root - client:38 - request running
+2025-09-03 14:52:28,015 - INFO - root - client:38 - request running
+2025-09-03 14:52:28,016 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:28,017 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-03 14:52:29,392 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:29,394 - DEBUG - root - client:42 - 16.002016067504883
+2025-09-03 14:52:31,336 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:31,337 - DEBUG - root - client:42 - 17.5642991065979
+2025-09-03 14:52:33,763 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:33,765 - DEBUG - root - client:42 - 10.204200029373169
+2025-09-03 14:52:33,836 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:33,837 - DEBUG - root - client:42 - 12.982087850570679
+2025-09-03 14:52:36,956 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:36,957 - DEBUG - root - client:42 - 14.06579875946045
+2025-09-03 14:52:39,870 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:39,871 - DEBUG - root - client:42 - 12.048951864242554
+2025-09-03 14:52:41,466 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:41,467 - DEBUG - root - client:42 - 13.452800989151001
+2025-09-03 14:52:41,923 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:41,924 - DEBUG - root - client:42 - 14.044680118560791
+2025-09-03 14:52:42,622 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:42,624 - DEBUG - root - client:42 - 15.673403263092041
+2025-09-03 14:52:43,665 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:43,666 - DEBUG - root - client:42 - 15.651225090026855
+2025-09-03 14:52:45,066 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:45,066 - DEBUG - root - client:42 - 17.610371828079224
+2025-09-03 14:52:46,057 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-03 14:52:46,059 - DEBUG - root - client:42 - 18.30961585044861
+2025-09-05 16:09:57,811 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-09-05 16:14:07,647 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-09-05 16:14:21,012 - DEBUG - asyncio - selector_events:64 - Using selector: KqueueSelector
+2025-09-05 16:14:21,019 - INFO - root - client:38 - request running
+2025-09-05 16:14:21,019 - INFO - root - client:38 - request running
+2025-09-05 16:14:21,019 - INFO - root - client:38 - request running
+2025-09-05 16:14:21,019 - INFO - root - client:38 - request running
+2025-09-05 16:14:21,020 - INFO - root - client:38 - request running
+2025-09-05 16:14:21,020 - INFO - root - client:38 - request running
+2025-09-05 16:14:21,020 - INFO - root - client:38 - request running
+2025-09-05 16:14:21,021 - INFO - root - client:38 - request running
+2025-09-05 16:14:21,022 - INFO - root - client:38 - request running
+2025-09-05 16:14:21,022 - INFO - root - client:38 - request running
+2025-09-05 16:14:21,022 - INFO - root - client:38 - request running
+2025-09-05 16:14:21,023 - INFO - root - client:38 - request running
+2025-09-05 16:14:21,028 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:21,028 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:21,029 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:21,029 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:21,029 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:21,029 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:21,029 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:21,030 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:21,030 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:21,030 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:21,030 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:21,030 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:25,620 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 600
+2025-09-05 16:14:25,621 - DEBUG - root - client:42 - 4.601316690444946
+2025-09-05 16:14:25,622 - INFO - root - client:38 - request running
+2025-09-05 16:14:25,623 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:25,692 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 600
+2025-09-05 16:14:25,692 - DEBUG - root - client:42 - 4.670612096786499
+2025-09-05 16:14:25,693 - INFO - root - client:38 - request running
+2025-09-05 16:14:25,694 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:25,695 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 754
+2025-09-05 16:14:25,695 - DEBUG - root - client:42 - 4.676101922988892
+2025-09-05 16:14:25,696 - INFO - root - client:38 - request running
+2025-09-05 16:14:25,697 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:26,188 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:26,189 - DEBUG - root - client:42 - 5.166298866271973
+2025-09-05 16:14:26,192 - INFO - root - client:38 - request running
+2025-09-05 16:14:26,193 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:26,249 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:26,250 - DEBUG - root - client:42 - 5.230231046676636
+2025-09-05 16:14:26,253 - INFO - root - client:38 - request running
+2025-09-05 16:14:26,254 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:26,477 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:26,477 - DEBUG - root - client:42 - 5.452318906784058
+2025-09-05 16:14:26,478 - INFO - root - client:38 - request running
+2025-09-05 16:14:26,479 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:27,275 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:27,275 - DEBUG - root - client:42 - 6.251253843307495
+2025-09-05 16:14:27,276 - INFO - root - client:38 - request running
+2025-09-05 16:14:27,277 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:28,000 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:28,000 - DEBUG - root - client:42 - 6.975863933563232
+2025-09-05 16:14:28,001 - INFO - root - client:38 - request running
+2025-09-05 16:14:28,002 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:28,699 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:28,699 - DEBUG - root - client:42 - 7.675618648529053
+2025-09-05 16:14:28,701 - INFO - root - client:38 - request running
+2025-09-05 16:14:28,702 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:29,785 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:29,786 - DEBUG - root - client:42 - 8.764956951141357
+2025-09-05 16:14:29,790 - INFO - root - client:38 - request running
+2025-09-05 16:14:29,791 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:30,735 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:30,736 - DEBUG - root - client:42 - 9.713629007339478
+2025-09-05 16:14:30,739 - INFO - root - client:38 - request running
+2025-09-05 16:14:30,741 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:30,808 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:30,809 - DEBUG - root - client:42 - 9.786625146865845
+2025-09-05 16:14:30,811 - INFO - root - client:38 - request running
+2025-09-05 16:14:30,812 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:32,551 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:32,552 - DEBUG - root - client:42 - 6.359262943267822
+2025-09-05 16:14:32,553 - INFO - root - client:38 - request running
+2025-09-05 16:14:32,554 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:32,635 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:32,635 - DEBUG - root - client:42 - 2.8449769020080566
+2025-09-05 16:14:32,636 - INFO - root - client:38 - request running
+2025-09-05 16:14:32,637 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:32,897 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:32,899 - DEBUG - root - client:42 - 5.622533798217773
+2025-09-05 16:14:32,900 - INFO - root - client:38 - request running
+2025-09-05 16:14:32,901 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:33,424 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:33,424 - DEBUG - root - client:42 - 7.727941989898682
+2025-09-05 16:14:33,425 - INFO - root - client:38 - request running
+2025-09-05 16:14:33,426 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:33,496 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:33,497 - DEBUG - root - client:42 - 7.243075847625732
+2025-09-05 16:14:33,498 - INFO - root - client:38 - request running
+2025-09-05 16:14:33,499 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:33,741 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:33,741 - DEBUG - root - client:42 - 8.047560930252075
+2025-09-05 16:14:33,742 - INFO - root - client:38 - request running
+2025-09-05 16:14:33,743 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:33,763 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:33,763 - DEBUG - root - client:42 - 7.2848451137542725
+2025-09-05 16:14:33,764 - INFO - root - client:38 - request running
+2025-09-05 16:14:33,765 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:34,422 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:34,423 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:34,423 - DEBUG - root - client:42 - 6.4216790199279785
+2025-09-05 16:14:34,423 - DEBUG - root - client:42 - 5.722318172454834
+2025-09-05 16:14:34,424 - INFO - root - client:38 - request running
+2025-09-05 16:14:34,426 - INFO - root - client:38 - request running
+2025-09-05 16:14:34,427 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:34,427 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:34,618 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:34,618 - DEBUG - root - client:42 - 8.995882987976074
+2025-09-05 16:14:34,619 - INFO - root - client:38 - request running
+2025-09-05 16:14:34,620 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:37,039 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 603
+2025-09-05 16:14:37,040 - DEBUG - root - client:42 - 4.139425992965698
+2025-09-05 16:14:37,041 - INFO - root - client:38 - request running
+2025-09-05 16:14:37,042 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:37,079 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 603
+2025-09-05 16:14:37,079 - DEBUG - root - client:42 - 3.3368470668792725
+2025-09-05 16:14:37,080 - INFO - root - client:38 - request running
+2025-09-05 16:14:37,081 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:37,192 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 603
+2025-09-05 16:14:37,192 - DEBUG - root - client:42 - 3.694586753845215
+2025-09-05 16:14:37,194 - INFO - root - client:38 - request running
+2025-09-05 16:14:37,196 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:37,607 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:37,608 - DEBUG - root - client:42 - 4.181986093521118
+2025-09-05 16:14:37,612 - INFO - root - client:38 - request running
+2025-09-05 16:14:37,613 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:37,718 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:37,718 - DEBUG - root - client:42 - 5.165618896484375
+2025-09-05 16:14:37,720 - INFO - root - client:38 - request running
+2025-09-05 16:14:37,720 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:14:37,995 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:37,995 - DEBUG - root - client:42 - 7.183547735214233
+2025-09-05 16:14:39,152 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:39,153 - DEBUG - root - client:42 - 4.727489948272705
+2025-09-05 16:14:39,392 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:39,392 - DEBUG - root - client:42 - 4.773136854171753
+2025-09-05 16:14:39,633 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:39,633 - DEBUG - root - client:42 - 5.206615924835205
+2025-09-05 16:14:40,118 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:40,118 - DEBUG - root - client:42 - 9.378798961639404
+2025-09-05 16:14:41,863 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:41,864 - DEBUG - root - client:42 - 8.099602937698364
+2025-09-05 16:14:45,343 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:45,343 - DEBUG - root - client:42 - 12.70720386505127
+2025-09-05 16:14:45,515 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:45,522 - DEBUG - root - client:42 - 8.326302766799927
+2025-09-05 16:14:45,781 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:45,781 - DEBUG - root - client:42 - 8.168280124664307
+2025-09-05 16:14:46,903 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:46,904 - DEBUG - root - client:42 - 9.184059143066406
+2025-09-05 16:14:47,225 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:47,225 - DEBUG - root - client:42 - 10.144811868667603
+2025-09-05 16:14:48,197 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:14:48,197 - DEBUG - root - client:42 - 11.15568208694458
+2025-09-05 16:20:32,344 - INFO - root - client:38 - request running
+2025-09-05 16:20:32,349 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:20:57,123 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:20:57,125 - DEBUG - root - client:42 - 24.781260013580322
+2025-09-05 16:22:12,699 - INFO - root - client:38 - request running
+2025-09-05 16:22:12,706 - DEBUG - urllib3.connectionpool - connectionpool:1049 - Starting new HTTPS connection (1): api.bianxie.ai:443
+2025-09-05 16:22:35,959 - DEBUG - urllib3.connectionpool - connectionpool:544 - https://api.bianxie.ai:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-09-05 16:22:35,963 - DEBUG - root - client:42 - 23.263309240341187
